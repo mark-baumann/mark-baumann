@@ -19,10 +19,22 @@ Ich baue KI-Systeme von den mathematischen Grundlagen bis zum produktiven Deploy
 # Highlights
 
 - 🧠 **~25 GitHub-Repositories** – zentral verknüpft über **markb.de**
-- 🖥️ **14 Live-Dienste** (24/7 verfügbar)
-- 🤖 **6 autonome KI-Mitarbeiter** (Monitoring, CI, Code-Verbesserungen, Daten-Feeds)
+- 🖥️ **14 Live-Dienste** (Raspberry Pi + Cloudflare-Tunnel, via infrastruktur-deployment)
+- 🤖 **6 autonome KI-Mitarbeiter** (Monitoring, CI, Code-Verbesserungen, Daten-Feed)
 - 🎓 **Bachelorarbeit:** *Architektur und Evaluation autonomer KI-Agenten*
   - Code & Gliederung: https://github.com/mark-baumann/bachelorarbeit
+
+---
+
+# Infrastruktur
+
+Alle 14 Streamlit-Dienste laufen auf einem **Raspberry Pi** und sind über einen **Cloudflare-Tunnel** erreichbar. Das Deployment ist vollständig automatisiert:
+
+```
+GitHub Push (main) → GitHub Actions → Docker Build (ARM64) → Pi → Cloudflare → markb.de
+```
+
+- **Infrastruktur-Repo:** [infrastruktur-deployment](https://github.com/mark-baumann/infrastruktur-deployment) – deterministische Pipeline für alle Dienste
 
 ---
 
@@ -30,24 +42,30 @@ Ich baue KI-Systeme von den mathematischen Grundlagen bis zum produktiven Deploy
 
 Alle Projekte und Live-Dienste sind zentral über **https://markb.de** erreichbar.
 
-## Projekte mit Live-Diensten
+## Live-Dienste (via Infrastruktur-Deployment, Raspberry Pi)
 
-| Projekt | Live-Dienst |
-|---------|-------------|
-| vergleich-agenten | https://vergleich-agenten.markb.de |
-| handels-agenten | https://handels-agenten.markb.de |
-| ocr-erkennung | https://ocr-erkennung.markb.de |
-| rag-agenten (LangGraph) | https://rag-agent.markb.de |
-| paperclip | https://paperclip.markb.de |
-| open-manus | https://open-manus.markb.de |
-| buchungssatz-agent | https://buchhaltungs-agent.markb.de |
-| bewerbungs-agent | https://bewerbungs-agent.markb.de |
-| email-agent | https://email-agent.markb.de |
-| browser-nutzung | https://browser-nutzung.markb.de |
-| taegliche-aktienanalyse | https://aktienanalyse.markb.de |
-| agenten-verstaerkungslernen | https://verstaerktes-lernen.markb.de |
-| n8n | https://n8n.markb.de |
-| hermes-agent | https://hermes-agent.markb.de |
+| Dienst | GitHub-Repo | URL |
+|--------|-------------|-----|
+| Vergleich-Agenten | vergleichs-ki | https://vergleich-agenten.markb.de |
+| Finanz-Agenten | finanz-assistent | https://finanz-agenten.markb.de |
+| Handels-Agenten | handels-agenten | https://handels-agenten.markb.de |
+| KI-Lernplattform | ki-lernplattform | https://ki-lernplattform.markb.de |
+| Spam-Klassifikation | spam-klassifikation | https://spam-klassifikation.markb.de |
+| Anonymisierung | anonymisierungs-pipeline | https://anonymisierungs-pipeline.markb.de |
+| Dokumenten-Agent | rag-agent-langgraph | https://dokumenten-agent.markb.de |
+| Aktienanalyse | taegliche-aktienanalyse | https://aktienanalyse.markb.de |
+| eBay-Agent | ebay-scraping-agent | https://ebay-agent.markb.de |
+| Browser-Nutzung | browser-nutzung | https://browser-nutzung.markb.de |
+| Open-Manus | open-manus | https://open-manus.markb.de |
+| Verstärkungslernen | agenten-verstaerkungslernen | https://verstaerkungslernen.markb.de |
+| ART-Agent | ART | https://art-agent.markb.de |
+| Status-Dashboard | status-dashboard | https://status.markb.de |
+
+## Headless-Services (kein UI)
+
+| Dienst | Beschreibung |
+|--------|--------------|
+| daten-feed-worker | Automatischer Datenfeed-Worker (24/7) |
 
 ---
 
@@ -57,14 +75,13 @@ Alle Projekte und Live-Dienste sind zentral über **https://markb.de** erreichba
 |---------|--------------|
 | nanoGPT | Training & Sampling |
 | infrastruktur-deployment | Deterministische Deployment-Pipeline |
+| ocr_recognition_nn | OCR-Erkennung (GPU-Workload, läuft auf RunPod) |
 | handschrifterkennung-mnist | Handschrifterkennung mit dem MNIST-Datensatz |
 | neuronales-netz-von-grund-auf | Neuronales Netz von Grund auf implementiert |
-| ART | Reinforcement Learning mit OpenPipe |
 | algorithmen | Allgemeine Algorithmen |
 | ki-algorithmen | Algorithmen aus der KI |
 | mathe-algorithmen | Algorithmen aus der Mathematik |
 | pytorch-lernen | PyTorch-Lernprojekt |
-| spam-klassifikation | Spam-Erkennung |
 
 ---
 
@@ -87,7 +104,8 @@ Alle Projekte und Live-Dienste sind zentral über **https://markb.de** erreichba
 
 **Automatisierung & DevOps**
 - GitHub Actions
+- Docker
 - n8n
 - Cloudflare
 - Linux
-
+- Raspberry Pi
