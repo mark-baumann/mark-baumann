@@ -36,7 +36,7 @@ Alle Projekte und Live-Dienste sind zentral über **https://markb.de** erreichba
 |---------|-------------|
 | vergleich-agenten | https://vergleich-agenten.markb.de |
 | handels-agenten | https://handels-agenten.markb.de |
-| ocr-erkennung | https://ocr-rec.markb.de |
+| ocr-erkennung | https://ocr-erkennung.markb.de |
 | rag-agenten (LangGraph) | https://rag-agent.markb.de |
 | paperclip | https://paperclip.markb.de |
 | open-manus | https://open-manus.markb.de |
