@@ -55,10 +55,10 @@ Alle Projekte und Live-Dienste sind zentral über **https://markb.de** erreichba
 | Open-Manus | open-manus | https://open-manus.markb.de |
 | Verstärkungslernen | agenten-verstaerkungslernen | https://verstaerkungslernen.markb.de |
 | ART-Agent | ART | https://art-agent.markb.de |
-| Email-agent |	Agent für E-Mail-Verarbeitung	Live-Dienst, falls UI vorhanden
-| buchungssatz-agent |	KI-Assistent für Buchungssätze	Projekt
-| schach-reinforcement-lernen | Reinforcement Learning / Schach	Projekt
-| bewerbung-agent	| Agent für Bewerbungsprozesse + Browser-Automatisierung
+| Email-agent |	Agent für E-Mail-Verarbeitung	Live-Dienst, falls UI vorhanden | https://email-agent.markb.de
+| buchungssatz-agent |	KI-Assistent für Buchungssätze	Projekt | https://buchungssatz-agent.markb.de
+| schach-reinforcement-lernen | Reinforcement Learning / Schach	Projekt | https://schach-rl.markb.de
+| bewerbung-agent	| Agent für Bewerbungsprozesse + Browser-Automatisierung | https://bewerbung-agent.markb.de
 
 
 ## Projekte ohne Live-UI
