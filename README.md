@@ -80,9 +80,9 @@ Alle Projekte und Live-Dienste sind zentral über **https://markb.de** erreichba
 
 ## Forks
 |---------|--------------|
-hermes-agent | Autonomer KI-Agent / Agentensystem
-opencode	| Coding-Agent/Entwicklungsumgebung	
-n8n	| Automatisierung von Prozessen mit KI 
+| hermes-agent | Autonomer KI-Agent / Agentensystem |
+| opencode	| Coding-Agent/Entwicklungsumgebung	|
+| n8n	| Automatisierung von Prozessen mit KI |
 
 
 
