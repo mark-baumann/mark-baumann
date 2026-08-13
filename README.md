@@ -10,7 +10,7 @@
 
 # Kurzbeschreibung
 
-Ich baue KI-Systeme von den mathematischen Grundlagen bis zum produktiven Deployment: Neuronale Netze (PyTorch), RAG-Pipelines, autonome Agenten und interaktive Streamlit-Apps.
+Ich baue KI-Systeme von den mathematischen Grundlagen bis zum produktiven Deployment: Neuronale Netze (PyTorch), RAG-Pipelines und autonome Agenten.
 
 **Fokus:** nachprüfbare Modelle, zuverlässige Infrastruktur und produktive Endpunkte.
 
@@ -55,28 +55,37 @@ Alle Projekte und Live-Dienste sind zentral über **https://markb.de** erreichba
 | Open-Manus | open-manus | https://open-manus.markb.de |
 | Verstärkungslernen | agenten-verstaerkungslernen | https://verstaerkungslernen.markb.de |
 | ART-Agent | ART | https://art-agent.markb.de |
+| Email-agent |	Agent für E-Mail-Verarbeitung	Live-Dienst, falls UI vorhanden
+| buchungssatz-agent |	KI-Assistent für Buchungssätze	Projekt
+| schach-reinforcement-lernen | Reinforcement Learning / Schach	Projekt
+| bewerbung-agent	| Agent für Bewerbungsprozesse + Browser-Automatisierung
 
-## Headless-Services (kein UI)
-
-| Dienst | Beschreibung |
-|--------|--------------|
-| Spam-Klassifikation | spam-klassifikation |
-
----
 
 ## Projekte ohne Live-UI
 
 | Projekt | Beschreibung |
 |---------|--------------|
 | nanoGPT | Training & Sampling |
+| Spam-Klassifikation | spam-klassifikation |
 | infrastruktur-deployment | Deterministische Deployment-Pipeline |
-| ocr_recognition_nn | OCR-Erkennung (GPU-Workload, läuft auf RunPod) |
+| ocr_recognition_nn | OCR-Erkennung mit DeepSeek OCR |
 | handschrifterkennung-mnist | Handschrifterkennung mit dem MNIST-Datensatz |
 | neuronales-netz-von-grund-auf | Neuronales Netz von Grund auf implementiert |
 | algorithmen | Allgemeine Algorithmen |
 | ki-algorithmen | Algorithmen aus der KI |
 | mathe-algorithmen | Algorithmen aus der Mathematik |
 | pytorch-lernen | PyTorch-Lernprojekt |
+
+
+
+## Forks
+|---------|--------------|
+hermes-agent | Autonomer KI-Agent / Agentensystem
+opencode	| Coding-Agent/Entwicklungsumgebung	
+n8n	| Automatisierung von Prozessen mit KI 
+
+
+
 
 ---
 
@@ -103,4 +112,4 @@ Alle Projekte und Live-Dienste sind zentral über **https://markb.de** erreichba
 - n8n
 - Cloudflare
 - Linux
-- Raspberry Pi
+
