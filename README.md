@@ -68,7 +68,7 @@ Alle Projekte und Live-Dienste sind zentral über **https://markb.de** erreichba
 | nanoGPT | Training & Sampling |
 | Spam-Klassifikation | spam-klassifikation |
 | infrastruktur-deployment | Deterministische Deployment-Pipeline |
-| ocr_recognition_nn | OCR-Erkennung mit DeepSeek OCR |
+| ocr-erkennung | OCR-Erkennung mit DeepSeek OCR |
 | handschrifterkennung-mnist | Handschrifterkennung mit dem MNIST-Datensatz |
 | neuronales-netz-von-grund-auf | Neuronales Netz von Grund auf implementiert |
 | algorithmen | Allgemeine Algorithmen |
@@ -79,10 +79,11 @@ Alle Projekte und Live-Dienste sind zentral über **https://markb.de** erreichba
 
 
 ## Forks
+| Projekt | Beschreibung |
 |---------|--------------|
 | hermes-agent | Autonomer KI-Agent / Agentensystem |
-| opencode	| Coding-Agent/Entwicklungsumgebung	|
-| n8n	| Automatisierung von Prozessen mit KI |
+| opencode | Coding-Agent / Entwicklungsumgebung |
+| n8n | Automatisierung von Prozessen mit KI |
 
 
 
