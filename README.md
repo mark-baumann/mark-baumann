@@ -46,12 +46,8 @@ Alle Projekte und Live-Dienste sind zentral über **https://markb.de** erreichba
 
 | Dienst | GitHub-Repo | URL |
 |--------|-------------|-----|
-| Vergleich-Agenten | vergleichs-ki | https://vergleich-agenten.markb.de |
-| Finanz-Agenten | finanz-assistent | https://finanz-agenten.markb.de |
+| Vergleich-Agenten | vergleichs-ki | https://vergleichs-ki.markb.de |
 | Handels-Agenten | handels-agenten | https://handels-agenten.markb.de |
-| KI-Lernplattform | ki-lernplattform | https://ki-lernplattform.markb.de |
-| Spam-Klassifikation | spam-klassifikation | https://spam-klassifikation.markb.de |
-| Anonymisierung | anonymisierungs-pipeline | https://anonymisierungs-pipeline.markb.de |
 | Dokumenten-Agent | rag-agent-langgraph | https://dokumenten-agent.markb.de |
 | Aktienanalyse | taegliche-aktienanalyse | https://aktienanalyse.markb.de |
 | eBay-Agent | ebay-scraping-agent | https://ebay-agent.markb.de |
@@ -59,13 +55,12 @@ Alle Projekte und Live-Dienste sind zentral über **https://markb.de** erreichba
 | Open-Manus | open-manus | https://open-manus.markb.de |
 | Verstärkungslernen | agenten-verstaerkungslernen | https://verstaerkungslernen.markb.de |
 | ART-Agent | ART | https://art-agent.markb.de |
-| Status-Dashboard | status-dashboard | https://status.markb.de |
 
 ## Headless-Services (kein UI)
 
 | Dienst | Beschreibung |
 |--------|--------------|
-| daten-feed-worker | Automatischer Datenfeed-Worker (24/7) |
+| Spam-Klassifikation | spam-klassifikation |
 
 ---
 
