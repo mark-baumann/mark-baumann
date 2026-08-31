@@ -1,4 +1,3 @@
-
 # Mark Baumann
 
 **KI-Entwickler aus München · 26 Jahre · Bachelorand**
@@ -22,6 +21,8 @@ Alle Projekte und Live-Dienste sind zentral über **https://markb.de** erreichba
 
 ## Live-Dienste (via Infrastruktur-Deployment, Raspberry Pi)
 
+Kanonische Liste gemäß `infrastruktur-deployment/config/services.yaml`.
+
 | Dienst | GitHub-Repo | URL |
 |--------|-------------|-----|
 | Vergleich-Agenten | vergleichs-ki | https://vergleichs-ki.markb.de |
@@ -31,12 +32,8 @@ Alle Projekte und Live-Dienste sind zentral über **https://markb.de** erreichba
 | eBay-Agent | ebay-scraping-agent | https://ebay-agent.markb.de |
 | Browser-Nutzung | browser-nutzung | https://browser-nutzung.markb.de |
 | Open-Manus | open-manus | https://open-manus.markb.de |
-| Verstärkungslernen | agenten-verstaerkungslernen | https://verstaerkungslernen.markb.de |
 | ART-Agent | ART | https://art-agent.markb.de |
-| Email-agent |	Agent für E-Mail-Verarbeitung	Live-Dienst, falls UI vorhanden | https://email-agent.markb.de
-| buchungssatz-agent |	KI-Assistent für Buchungssätze	Projekt | https://buchungssatz-agent.markb.de
-| schach-reinforcement-lernen | Reinforcement Learning / Schach	Projekt | https://schach-rl.markb.de
-| bewerbung-agent	| Agent für Bewerbungsprozesse + Browser-Automatisierung | https://bewerbung-agent.markb.de
+| Schach | schach-reinforcement-lernen | https://schach.markb.de |
 
 
 ## Projekte ohne Live-UI
@@ -91,4 +88,3 @@ Alle Projekte und Live-Dienste sind zentral über **https://markb.de** erreichba
 - n8n
 - Cloudflare
 - Linux
-
