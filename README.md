@@ -29,9 +29,8 @@ Legende: 🟢 Live (HTTP 200) · 🔴 Offline  ⚪ nicht öffentlich
 | Vergleich-Agenten | vergleichs-ki | https://vergleichs-ki.markb.de | 🔴 Offline |
 | Handels-Agenten | handels-agenten | https://handels-agenten.markb.de | 🔴 Offline  |
 | Dokumenten-Agent | rag-agent-langgraph | https://dokumenten-agent.markb.de | 🔴 Offline  |
-| Aktienanalyse | taegliche-aktienanalyse | https://aktienanalyse.markb.de | 🔴 Offline  |
+| Aktienanalyse | taegliche-aktienanalyse | https://aktienanalyse.markb.de | 🟢 Live |
 | eBay-Agent | ebay-scraping-agent | https://ebay-agent.markb.de | 🔴 Offline |
-| Browser-Nutzung | ➖ (Repo fehlt) | https://browser-nutzung.markb.de | 🔴 Offline  |
 | Open-Manus | open-manus | https://open-manus.markb.de | 🔴 Offline |
 | ART-Agent | ART | https://art-agent.markb.de | 🔴 Offline  |
 
