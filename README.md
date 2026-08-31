@@ -2,12 +2,12 @@
 
 **KI-Entwickler aus München · 26 Jahre · Bachelorand**
 
-- 🌐 Portfolio: https://markb.de
-- 💻 GitHub: https://github.com/mark-baumann
+- 🌐 Portfolio: [markb.de](https://markb.de)
+- 💻 GitHub: [github.com/mark-baumann](https://github.com/mark-baumann)
 
 ---
 
-# Kurzbeschreibung
+## Kurzbeschreibung
 
 Ich baue KI-Systeme von den mathematischen Grundlagen bis zum produktiven Deployment: Neuronale Netze (PyTorch), RAG-Pipelines und autonome Agenten.
 
@@ -15,25 +15,25 @@ Ich baue KI-Systeme von den mathematischen Grundlagen bis zum produktiven Deploy
 
 ---
 
-# Projekte & Dienste
+## Live-Dienste
 
+> Deployment über Cloudflare-Tunnel → Host `srv1741927` (Userspace, kein Docker).
+> Status verifiziert am 31.08.2026.
 
-## Deployment-Status (Aufnahme: 31.08.2026)
+| Dienst | Repo | URL | Status |
+|--------|------|-----|--------|
+| Schach | [schach-reinforcement-lernen](https://github.com/mark-baumann/schach-reinforcement-lernen) | [schach.markb.de](https://schach.markb.de) | 🟢 Live |
+| Vergleich-Agenten | [vergleichs-ki](https://github.com/mark-baumann/vergleichs-ki) | [vergleichs-ki.markb.de](https://vergleichs-ki.markb.de) | 🔴 Offline |
+| Handels-Agenten | [handels-agenten](https://github.com/mark-baumann/handels-agenten) | [handels-agenten.markb.de](https://handels-agenten.markb.de) | 🔴 Offline |
+| Dokumenten-Agent | [rag-agent-langgraph](https://github.com/mark-baumann/rag-agent-langgraph) | [dokumenten-agent.markb.de](https://dokumenten-agent.markb.de) | 🔴 Offline |
+| Aktienanalyse | [taegliche-aktienanalyse](https://github.com/mark-baumann/taegliche-aktienanalyse) | [aktienanalyse.markb.de](https://aktienanalyse.markb.de) | 🔴 Offline |
+| eBay-Agent | [ebay-scraping-agent](https://github.com/mark-baumann/ebay-scraping-agent) | [ebay-agent.markb.de](https://ebay-agent.markb.de) | 🔴 Offline |
+| Open-Manus | [open-manus](https://github.com/mark-baumann/open-manus) | [open-manus.markb.de](https://open-manus.markb.de) | 🔴 Offline |
+| ART-Agent | [ART](https://github.com/mark-baumann/ART) | [art-agent.markb.de](https://art-agent.markb.de) | 🔴 Offline |
 
+Legende: 🟢 Live (HTTP 200) · 🔴 Offline (Backend läuft nicht)
 
-Legende: 🟢 Live (HTTP 200) · 🔴 Offline  ⚪ nicht öffentlich 
-
-| Dienst | GitHub-Repo | URL | Status |
-|--------|-------------|-----|--------|
-| Schach | schach-reinforcement-lernen | https://schach.markb.de | 🟢 Live |
-| Vergleich-Agenten | vergleichs-ki | https://vergleichs-ki.markb.de | 🔴 Offline |
-| Handels-Agenten | handels-agenten | https://handels-agenten.markb.de | 🔴 Offline  |
-| Dokumenten-Agent | rag-agent-langgraph | https://dokumenten-agent.markb.de | 🔴 Offline  |
-| Aktienanalyse | taegliche-aktienanalyse | https://aktienanalyse.markb.de | 🟢 Live |
-| eBay-Agent | ebay-scraping-agent | https://ebay-agent.markb.de | 🔴 Offline |
-| Open-Manus | open-manus | https://open-manus.markb.de | 🔴 Offline |
-| ART-Agent | ART | https://art-agent.markb.de | 🔴 Offline  |
-
+---
 
 ## Projekte ohne Live-UI
 
@@ -41,8 +41,8 @@ Legende: 🟢 Live (HTTP 200) · 🔴 Offline  ⚪ nicht öffentlich
 |---------|--------------|
 | nanoGPT | Training & Sampling |
 | Spam-Klassifikation | spam-klassifikation |
-| infrastruktur-deployment | Deterministische Deployment-Pipeline |
 | ocr-erkennung | OCR-Erkennung mit DeepSeek OCR |
+| infrastruktur-deployment | Deterministische Deployment-Pipeline |
 | handschrifterkennung-mnist | Handschrifterkennung mit dem MNIST-Datensatz |
 | neuronales-netz-von-grund-auf | Neuronales Netz von Grund auf implementiert |
 | algorithmen | Allgemeine Algorithmen |
@@ -50,21 +50,19 @@ Legende: 🟢 Live (HTTP 200) · 🔴 Offline  ⚪ nicht öffentlich
 | mathe-algorithmen | Algorithmen aus der Mathematik |
 | pytorch-lernen | PyTorch-Lernprojekt |
 
-
+---
 
 ## Forks
+
 | Projekt | Beschreibung |
 |---------|--------------|
 | hermes-agent | Autonomer KI-Agent / Agentensystem |
 | opencode | Coding-Agent / Entwicklungsumgebung |
 | n8n | Automatisierung von Prozessen mit KI |
 
-
-
-
 ---
 
-# Tech-Stack
+## Tech-Stack
 
 **Programmiersprache**
 - Python
