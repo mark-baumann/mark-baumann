@@ -17,8 +17,6 @@ Ich baue KI-Systeme von den mathematischen Grundlagen bis zum produktiven Deploy
 
 ## Live-Dienste
 
-> Deployment über Cloudflare-Tunnel → Host `srv1741927` (Userspace, kein Docker).
-> Status verifiziert am 03.09.2026.
 
 | Dienst | Repo | URL | Status |
 |--------|------|-----|--------|
