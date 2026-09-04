@@ -21,15 +21,17 @@ Ich baue KI-Systeme von den mathematischen Grundlagen bis zum produktiven Deploy
 | Dienst | Repo | URL | Status |
 |--------|------|-----|--------|
 | Schach | [schach-reinforcement-lernen](https://github.com/mark-baumann/schach-reinforcement-lernen) | [schach.markb.de](https://schach.markb.de) | 🟢 Live |
-| Vergleich-Agenten | [vergleichs-ki](https://github.com/mark-baumann/vergleichs-ki) | [vergleichs-ki.markb.de](https://vergleichs-ki.markb.de) | 🔴 Offline |
+| Vergleich-Agenten | [vergleichs-ki](https://github.com/mark-baumann/vergleichs-ki) | [vergleichs-ki.markb.de](https://vergleichs-ki.markb.de) | 🟢 Live |
 | Handels-Agenten | [handels-agenten](https://github.com/mark-baumann/handels-agenten) | [handels-agenten.markb.de](https://handels-agenten.markb.de) | 🟢 Live |
-| Dokumenten-Agent | [rag-agent-langgraph](https://github.com/mark-baumann/rag-agent-langgraph) | [dokumenten-agent.markb.de](https://dokumenten-agent.markb.de) | 🔴 Offline |
+| Dokumenten-Agent | [rag-agent-langgraph](https://github.com/mark-baumann/rag-agent-langgraph) | [dokumenten-agent.markb.de](https://dokumenten-agent.markb.de) | 🟢 Live |
 | Aktienanalyse | [taegliche-aktienanalyse](https://github.com/mark-baumann/taegliche-aktienanalyse) | [aktienanalyse.markb.de](https://aktienanalyse.markb.de) | 🟢 Live |
-| eBay-Agent | [ebay-scraping-agent](https://github.com/mark-baumann/ebay-scraping-agent) | [ebay-agent.markb.de](https://ebay-agent.markb.de) | 🔴 Offline |
-| Open-Manus | [open-manus](https://github.com/mark-baumann/open-manus) | [open-manus.markb.de](https://open-manus.markb.de) | 🔴 Offline |
-| ART-Agent | [ART](https://github.com/mark-baumann/ART) | [art-agent.markb.de](https://art-agent.markb.de) | 🔴 Offline |
+| eBay-Agent | [ebay-scraping-agent](https://github.com/mark-baumann/ebay-scraping-agent) | [ebay-agent.markb.de](https://ebay-agent.markb.de) | 🟢 Live |
+| Open-Manus | [open-manus](https://github.com/mark-baumann/open-manus) | [open-manus.markb.de](https://open-manus.markb.de) | 🟢 Live |
+| ART-Agent | [ART](https://github.com/mark-baumann/ART) | [art-agent.markb.de](https://art-agent.markb.de) | 🟢 Live |
 
 Legende: 🟢 Live (HTTP 200) · 🔴 Offline (Backend läuft nicht)
+
+_Verifiziert am 04.09.2026 (HTTP 200 + `/_stcore/health` = `ok` für alle Streamlit-Dienste)._
 
 ---
 
