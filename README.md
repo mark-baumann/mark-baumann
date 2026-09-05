@@ -59,6 +59,7 @@ _Verifiziert am 04.09.2026 (HTTP 200 + `/_stcore/health` = `ok` für alle Stream
 | hermes-agent | Autonomer KI-Agent / Agentensystem |
 | opencode | Coding-Agent / Entwicklungsumgebung |
 | n8n | Automatisierung von Prozessen mit KI |
+| paperclip | Open-Source-App zur Verwaltung von Agenten bei der Arbeit |
 
 ---
 
