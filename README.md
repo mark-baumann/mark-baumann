@@ -28,10 +28,11 @@ Ich baue KI-Systeme von den mathematischen Grundlagen bis zum produktiven Deploy
 | eBay-Agent | [ebay-scraping-agent](https://github.com/mark-baumann/ebay-scraping-agent) | [ebay-agent.markb.de](https://ebay-agent.markb.de) | 🟢 Live |
 | Open-Manus | [open-manus](https://github.com/mark-baumann/open-manus) | [open-manus.markb.de](https://open-manus.markb.de) | 🟢 Live |
 | ART-Agent | [ART](https://github.com/mark-baumann/ART) | [art-agent.markb.de](https://art-agent.markb.de) | 🟢 Live |
+| Bewerbungsagent | [bewerbung-agent](https://github.com/mark-baumann/bewerbung-agent) | [bewerbungs-agent.markb.de](https://bewerbungs-agent.markb.de) | 🟢 Live |
 
 Legende: 🟢 Live (HTTP 200) · 🔴 Offline (Backend läuft nicht)
 
-_Verifiziert am 04.09.2026 (HTTP 200 + `/_stcore/health` = `ok` für alle Streamlit-Dienste)._
+_Verifiziert am 05.09.2026 (HTTP 200 + `/_stcore/health` = `ok` für alle Streamlit-Dienste)._
 
 ---
 
