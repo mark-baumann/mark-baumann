@@ -32,8 +32,6 @@ Ich baue KI-Systeme von den mathematischen Grundlagen bis zum produktiven Deploy
 
 Legende: 🟢 Live (HTTP 200) · 🔴 Offline (Backend läuft nicht)
 
-_Verifiziert am 05.09.2026 (HTTP 200 + `/_stcore/health` = `ok` für alle Streamlit-Dienste)._
-
 ---
 
 ## Projekte ohne Live-UI
@@ -61,7 +59,7 @@ _Verifiziert am 05.09.2026 (HTTP 200 + `/_stcore/health` = `ok` für alle Stream
 | opencode | Coding-Agent / Entwicklungsumgebung |
 | n8n | Automatisierung von Prozessen mit KI |
 | paperclip | Open-Source-App zur Verwaltung von Agenten bei der Arbeit |
-
+| trading-view-mcp | Trading View MCP Server for Claude Code, Gemini Cli and Codex |
 ---
 
 ## Tech-Stack
