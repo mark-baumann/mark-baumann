@@ -58,7 +58,6 @@ Legende: 🟢 Live (HTTP 200) · 🔴 Offline (Backend läuft nicht)
 | opencode | Coding-Agent / Entwicklungsumgebung |
 | n8n | Automatisierung von Prozessen mit KI |
 | paperclip | Open-Source-App zur Verwaltung von Agenten bei der Arbeit |
-| trading-view-mcp | Trading View MCP Server for Claude Code, Gemini Cli and Codex |
 ---
 
 ## Tech-Stack
