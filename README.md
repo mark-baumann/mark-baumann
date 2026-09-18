@@ -15,16 +15,19 @@ Ich baue KI-Systeme von den mathematischen Grundlagen bis zum produktiven Deploy
 
 ---
 
-## Live-Dienste
 
-
-| Dienst | Repo | URL | Status |
-|--------|------|-----|--------|
-| Schach | [schach-reinforcement-lernen](https://github.com/mark-baumann/schach-reinforcement-lernen) | [schach.markb.de](https://schach.markb.de) | 🟢 Live |
-| Vergleich-Agenten | [vergleichs-ki](https://github.com/mark-baumann/vergleichs-ki) | [vergleichs-ki.markb.de](https://vergleichs-ki.markb.de) | 🟢 Live |
+#aKTIENANALYSE 
 | Handels-Agenten | [handels-agenten](https://github.com/mark-baumann/handels-agenten) | [handels-agenten.markb.de](https://handels-agenten.markb.de) | 🟢 Live |
-| Dokumenten-Agent | [rag-agent-langgraph](https://github.com/mark-baumann/rag-agent-langgraph) | [dokumenten-agent.markb.de](https://dokumenten-agent.markb.de) | 🟢 Live |
 | Aktienanalyse | [taegliche-aktienanalyse](https://github.com/mark-baumann/taegliche-aktienanalyse) | [aktienanalyse.markb.de](https://aktienanalyse.markb.de) | 🟢 Live |
+
+ai gAMES 
+| Schach | [schach-reinforcement-lernen](https://github.com/mark-baumann/schach-reinforcement-lernen) | [schach.markb.de](https://schach.markb.de) | 🟢 Live |
+
+RAG 
+| Vergleich-Agenten | [vergleichs-ki](https://github.com/mark-baumann/vergleichs-ki) | [vergleichs-ki.markb.de](https://vergleichs-ki.markb.de) | 🟢 Live |
+| Dokumenten-Agent | [rag-agent-langgraph](https://github.com/mark-baumann/rag-agent-langgraph) | [dokumenten-agent.markb.de](https://dokumenten-agent.markb.de) | 🟢 Live |
+
+AGenten
 | ART-Agent | [ART](https://github.com/mark-baumann/ART) | [art-agent.markb.de](https://art-agent.markb.de) | 🟢 Live |
 | Bewerbungsagent | [bewerbung-agent](https://github.com/mark-baumann/bewerbung-agent) | [bewerbungs-agent.markb.de](https://bewerbungs-agent.markb.de) | 🟢 Live |
 
@@ -36,12 +39,20 @@ Legende: 🟢 Live (HTTP 200) · 🔴 Offline (Backend läuft nicht)
 
 | Projekt | Beschreibung |
 |---------|--------------|
+
+#AI Learning
 | nanoGPT | Training & Sampling |
 | Spam-Klassifikation | spam-klassifikation |
+
+#Image Detection
 | ocr-erkennung | OCR-Erkennung mit DeepSeek OCR |
-| infrastruktur-deployment | Deterministische Deployment-Pipeline |
 | handschrifterkennung-mnist | Handschrifterkennung mit dem MNIST-Datensatz |
 | neuronales-netz-von-grund-auf | Neuronales Netz von Grund auf implementiert |
+
+#Deployment
+#| infrastruktur-deployment | Deterministische Deployment-Pipeline |
+
+#Learning
 | algorithmen | Allgemeine Algorithmen |
 | ki-algorithmen | Algorithmen aus der KI |
 | mathe-algorithmen | Algorithmen aus der Mathematik |
