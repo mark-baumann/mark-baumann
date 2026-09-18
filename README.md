@@ -25,7 +25,6 @@ Ich baue KI-Systeme von den mathematischen Grundlagen bis zum produktiven Deploy
 | Handels-Agenten | [handels-agenten](https://github.com/mark-baumann/handels-agenten) | [handels-agenten.markb.de](https://handels-agenten.markb.de) | 🟢 Live |
 | Dokumenten-Agent | [rag-agent-langgraph](https://github.com/mark-baumann/rag-agent-langgraph) | [dokumenten-agent.markb.de](https://dokumenten-agent.markb.de) | 🟢 Live |
 | Aktienanalyse | [taegliche-aktienanalyse](https://github.com/mark-baumann/taegliche-aktienanalyse) | [aktienanalyse.markb.de](https://aktienanalyse.markb.de) | 🟢 Live |
-| Open-Manus | [open-manus](https://github.com/mark-baumann/open-manus) | [open-manus.markb.de](https://open-manus.markb.de) | 🟢 Live |
 | ART-Agent | [ART](https://github.com/mark-baumann/ART) | [art-agent.markb.de](https://art-agent.markb.de) | 🟢 Live |
 | Bewerbungsagent | [bewerbung-agent](https://github.com/mark-baumann/bewerbung-agent) | [bewerbungs-agent.markb.de](https://bewerbungs-agent.markb.de) | 🟢 Live |
 
