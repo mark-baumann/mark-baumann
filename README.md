@@ -84,7 +84,6 @@ Legende: 🟢 Live (HTTP 200) · 🔴 Offline (Backend läuft nicht)
 | opencode | Coding-Agent / Entwicklungsumgebung |
 | n8n | Automatisierung von Prozessen mit KI |
 | paperclip | Open-Source-App zur Verwaltung von Agenten bei der Arbeit |
-| TradeRepublicAPI | Unofficial Trade Republic API |
 
 ---
 
