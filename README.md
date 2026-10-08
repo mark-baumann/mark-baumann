@@ -17,12 +17,11 @@ Ich baue KI-Systeme von den mathematischen Grundlagen bis zum produktiven Deploy
 
 ## Live-Dienste
 
-**Aktienanalyse**
+**Aktienanalyse und Sportwetten**
 
 | Dienst | Repo | URL | Status |
 |--------|------|-----|--------|
 | Handels-Agenten | [handels-agenten](https://github.com/mark-baumann/handels-agenten) | [handels-agenten.markb.de](https://handels-agenten.markb.de) | 🟢 Live |
-| Aktienanalyse | [taegliche-aktienanalyse](https://github.com/mark-baumann/taegliche-aktienanalyse) | [aktienanalyse.markb.de](https://aktienanalyse.markb.de) | 🟢 Live |
 
 **KI-Spiele**
 
@@ -41,7 +40,6 @@ Ich baue KI-Systeme von den mathematischen Grundlagen bis zum produktiven Deploy
 
 | Dienst | Repo | URL | Status |
 |--------|------|-----|--------|
-| ART-Agent | [ART](https://github.com/mark-baumann/ART) | [art-agent.markb.de](https://art-agent.markb.de) | 🟢 Live |
 | Bewerbungsagent | [bewerbung-agent](https://github.com/mark-baumann/bewerbung-agent) | [bewerbungs-agent.markb.de](https://bewerbungs-agent.markb.de) | 🟢 Live |
 
 Legende: 🟢 Live (HTTP 200) · 🔴 Offline (Backend läuft nicht)
