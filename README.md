@@ -22,7 +22,6 @@ Ich baue KI-Systeme von den mathematischen Grundlagen bis zum produktiven Deploy
 | Dienst | Repo | URL | Status |
 |--------|------|-----|--------|
 | Handels-Agenten | [handels-agenten](https://github.com/mark-baumann/handels-agenten) | [handels-agenten.markb.de](https://handels-agenten.markb.de) | 🟢 Live |
-| Aktienanalyse | – | [aktienanalyse.markb.de](https://aktienanalyse.markb.de) | 🔴 Offline (HTTP 502) |
 
 **KI-Spiele**
 
@@ -43,7 +42,6 @@ Ich baue KI-Systeme von den mathematischen Grundlagen bis zum produktiven Deploy
 |--------|------|-----|--------|
 | Buchungssatz-Assistent | [buchungssatz-agent](https://github.com/mark-baumann/buchungssatz-agent) | [buchungssatz-agent.markb.de](https://buchungssatz-agent.markb.de) | 🟢 Live |
 | Bewerbungsagent | [bewerbung-agent](https://github.com/mark-baumann/bewerbung-agent) | [bewerbungs-agent.markb.de](https://bewerbungs-agent.markb.de) | 🟢 Live |
-| ART-Agent | [ART](https://github.com/mark-baumann/ART) | [art-agent.markb.de](https://art-agent.markb.de) | 🔴 Offline (DNS existiert nicht) |
 
 **OCR**
 
