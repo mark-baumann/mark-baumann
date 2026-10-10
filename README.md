@@ -43,13 +43,9 @@ Ich baue KI-Systeme von den mathematischen Grundlagen bis zum produktiven Deploy
 | Buchungssatz-Assistent | [buchungssatz-agent](https://github.com/mark-baumann/buchungssatz-agent) | [buchungssatz-agent.markb.de](https://buchungssatz-agent.markb.de) | 🟢 Live |
 | Bewerbungsagent | [bewerbung-agent](https://github.com/mark-baumann/bewerbung-agent) | [bewerbungs-agent.markb.de](https://bewerbungs-agent.markb.de) | 🟢 Live |
 
-**OCR**
 
-| Dienst | Repo | URL | Status |
-|--------|------|-----|--------|
-| OCR-Agent | [ocr-erkennung](https://github.com/mark-baumann/ocr-erkennung) | intern, Port 8518 (kein öffentlicher Endpunkt) | 🔴 Nicht exponiert |
 
-Legende: 🟢 Live (HTTP 200, verifiziert am 08.10.2026) · 🔴 Offline (nicht erreichbar bzw. kein öffentlicher Endpunkt)
+Legende: 🟢 Live (HTTP 200, verifiziert am 08.10.2026) 
 
 ---
 
@@ -78,6 +74,10 @@ Legende: 🟢 Live (HTTP 200, verifiziert am 08.10.2026) · 🔴 Offline (nicht 
 | mathe-algorithmen | Algorithmen aus der Mathematik |
 | pytorch-lernen | PyTorch-Lernprojekt |
 
+
+#OCR 
+
+| OCR-Agent | [ocr-erkennung](https://github.com/mark-baumann/ocr-erkennung) | OCR DeepSeek |
 ---
 
 ## Forks
