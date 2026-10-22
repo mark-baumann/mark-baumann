@@ -30,7 +30,7 @@ Ich baue KI-Systeme von den mathematischen Grundlagen bis zum produktiven Deploy
 | Dokumenten-Agent | [rag-agent-langgraph](https://github.com/mark-baumann/rag-agent-langgraph) | [dokumenten-agent.markb.de](https://dokumenten-agent.markb.de) | 🟢 Live |
 
 
-**Email Agent **
+**Email Agent**
 | Dienst | Repo | URL | Status |
 |--------|------|-----|--------|
 | Dokumenten-Agent | [rag-agent-langgraph](https://github.com/mark-baumann/email-agent) | [email-agent.markb.de](https://email-agent.markb.de) | 🟢 Live |
