@@ -1,16 +1,96 @@
-## Hi there 👋
+# Mark Baumann
 
-<!--
-**mark-baumann/mark-baumann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KI-Entwickler aus München · 26 Jahre · Bachelorand**
 
-Here are some ideas to get you started:
+- 🌐 Portfolio: [markb.de](https://markb.de)
+- 💻 GitHub: [github.com/mark-baumann](https://github.com/mark-baumann)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Kurzbeschreibung
+
+Ich baue KI-Systeme von den mathematischen Grundlagen bis zum produktiven Deployment: Neuronale Netze (PyTorch), RAG-Pipelines und autonome Agenten.
+
+**Fokus:** nachprüfbare Modelle, zuverlässige Infrastruktur und produktive Endpunkte.
+
+---
+
+## Live-Dienste
+
+**Aktienanalyse**
+
+| Dienst | Repo | URL | Status |
+|--------|------|-----|--------|
+| Handels-Agenten | [handels-agenten](https://github.com/mark-baumann/handels-agenten) | [handels-agenten.markb.de](https://handels-agenten.markb.de) | 🟢 Live |
+
+
+**RAG**
+
+| Dokumenten-Agent | [rag-agent-langgraph](https://github.com/mark-baumann/rag-agent-langgraph) | [dokumenten-agent.markb.de](https://dokumenten-agent.markb.de) | 🟢 Live |
+
+
+---
+
+## Projekte ohne Live-UI
+
+**AI Learning**
+
+| Projekt | Beschreibung |
+|---------|--------------|
+| nanoGPT | Training & Sampling |
+| Spam-Klassifikation | spam-klassifikation |
+
+**Image Detection**
+
+| Projekt | Beschreibung |
+|---------|--------------|
+| handschrifterkennung-mnist | Handschrifterkennung mit dem MNIST-Datensatz |
+| neuronales-netz-von-grund-auf | Neuronales Netz von Grund auf implementiert |
+
+
+**Learning**
+
+| Projekt | Beschreibung |
+|---------|--------------|
+| algorithmen | Allgemeine Algorithmen |
+| ki-algorithmen | Algorithmen aus der KI |
+| mathe-algorithmen | Algorithmen aus der Mathematik |
+| pytorch-lernen | PyTorch-Lernprojekt |
+
+
+
+
+## Forks
+
+| Projekt | Beschreibung |
+|---------|--------------|
+| hermes-agent | Autonomer KI-Agent / Agentensystem |
+| opencode | Coding-Agent / Entwicklungsumgebung |
+| n8n | Automatisierung von Prozessen mit KI |
+| paperclip | Open-Source-App zur Verwaltung von Agenten bei der Arbeit |
+
+---
+
+## Tech-Stack
+
+**Programmiersprache**
+- Python
+
+**Machine Learning & KI**
+- PyTorch
+- NumPy
+- LangGraph
+- Qdrant
+- OpenPipe
+- Weights & Biases (W&B)
+
+**Web & Anwendungen**
+- Streamlit
+- WordPress
+
+**Automatisierung & DevOps**
+- GitHub Actions
+- Docker
+- n8n
+- Cloudflare
+- Linux
